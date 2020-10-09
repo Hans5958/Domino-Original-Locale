@@ -1,0 +1,19 @@
+STRINGTABLE
+LANGUAGE LANG_JAPANESE, 0x1
+{
+  32976, 	"曲の最後尾へ移動します。\n曲の最後尾へ"
+  32977, 	"ピッチベンドを表示します。\nPitch Bend"
+  32979, 	"モジュレーションを表示します。\nModulation"
+  32980, 	"エクスプレッションを表示します。\nExpression"
+  32982, 	"ボリュームを表示します。\nVolume"
+  32983, 	"パンポットを表示します。\nPanpot"
+  32984, 	"ホールドを表示します。\nHold"
+  32985, 	"ローパスフィルターの周波数帯域を表示します。\nLPF Cutoff Frequency"
+  32986, 	"ローパスフィルターのレゾナンスを表示します。\nResonance"
+  32987, 	"マスターボリュームを表示します。\nMaster Volume"
+  32988, 	"ピッチベンドを表示します。\nPitch Bend"
+  32989, 	"モジュレーションを表示します。\nModulation"
+  32990, 	"エクスプレッションを表示します。\nExpression"
+  32991, 	"ボリュームを表示します。\nVolume"
+}
+
