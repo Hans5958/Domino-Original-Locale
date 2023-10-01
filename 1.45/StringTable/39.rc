@@ -1,0 +1,12 @@
+STRINGTABLE
+LANGUAGE LANG_JAPANESE, 0x1
+{
+  59136, 	"EXT"
+  59137, 	"CAP"
+  59138, 	"NUM"
+  59139, 	"SCRL"
+  59140, 	"上書"
+  59141, 	"記録"
+  59142, 	"ｶﾅ"
+}
+
