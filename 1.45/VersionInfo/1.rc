@@ -12,10 +12,10 @@ BLOCK "StringFileInfo"
 		VALUE "FileDescription", "MIDI音楽編集ソフト"
 		VALUE "FileVersion", "1.45 dev007"
 		VALUE "InternalName", "Domino"
-		VALUE "LegalCopyright", "Copyright (C) 2007-2024 Takabo Soft"
+		VALUE "LegalCopyright", "Copyright (C) 2007-2020 Takabo Soft"
 		VALUE "OriginalFilename", "Domino.exe"
 		VALUE "ProductName", "Domino"
-		VALUE "ProductVersion", "1.45"
+		VALUE "ProductVersion", "1.44"
 	}
 }
 
